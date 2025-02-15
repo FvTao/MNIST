@@ -11,6 +11,6 @@
    ```bash
    git clone https://github.com/FvTao/MNIST.git
    cd MNIST
-   pip3 install numpy
+   pip3 install numpy matplotlib
    python3 main.py
    ```
