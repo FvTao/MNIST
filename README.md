@@ -6,7 +6,7 @@
 
 # Usage
 
-1. 安装`Python>=3.8`
+1. 安装`Python>=3.10`
 2. 执行以下命令
    ```bash
    git clone https://github.com/FvTao/MNIST.git
